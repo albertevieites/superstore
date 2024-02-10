@@ -27,6 +27,14 @@ The Power BI dashboard will visualize:
 - Comparison of sales figures against returns.
 - Performance metrics of salespeople across different regions.
 
+![kpi](assets/kpi.png)
+
+![kpi](assets/sales.png)
+
+![kpi](assets/returns.png)
+
+![kpi](assets/salespeople.png)
+
 ## Setup and Usage
 (TODO: Include steps on how to set up the Power BI environment, load data sources, and any specific instructions for interacting with the dashboard.)
 
