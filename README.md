@@ -58,7 +58,7 @@ This part of the dashboard focuses on the returns, providing insights into the p
 
 A detailed breakdown of each salesperson's performance, highlighting the top performers and areas for improvement.
 
-![kpi](assets/salespeople.png)
+![kpi](assets/sales-people.png)
 
 ## Usage
 
