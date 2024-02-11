@@ -58,7 +58,7 @@ This part of the dashboard focuses on the returns, providing insights into the p
 
 A detailed breakdown of each salesperson's performance, highlighting the top performers and areas for improvement.
 
-![kpi](assets/sales-people.png)
+![kpi](assets/salespeople.png)
 
 ## Usage
 
@@ -67,6 +67,24 @@ The dashboard is interactive and allows users to:
 - Filter data by date, category, salesperson, and more.
 - Drill down into specific data points for more detailed analysis.
 - Export data visualizations as reports.
+
+## Dashboard Files
+To access and interact with the dashboard, follow the instructions below:
+
+### Power BI Dashboard File
+- File: SuperstoreDashboard.pbix
+- Description: The Power BI Desktop file containing the interactive dashboard.
+- Access: Download and open with Power BI Desktop.
+ 
+### PDF Export
+- File: SuperstoreDashboard.pdf
+- Description: A PDF export of the dashboard, providing a static overview of the visuals and insights.
+- Access: Download PDF file.
+ 
+### PowerPoint Presentation
+- File: SuperstoreDashboard.pptx
+- Description: A PowerPoint presentation that includes key visuals and insights from the dashboard, suitable for presentations and meetings.
+- Access: Download PowerPoint file.
 
 ## Technologies Used
 
